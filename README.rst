@@ -8,8 +8,8 @@
     :target: https://github.com/openprocurement/openprocurement.relocation.core/blob/master/LICENSE.txt
 
 openprocurement.relocation.core
-==============================
+===============================
 
 Ownership transfer API interface to OpenProcurement database
 
-Documentation for this package is available at http://relocation.api-docs.openprocurement.org/en/latest/overview.html
+Documentation for this package is available at http://relocation.core-docs.openprocurement.org/en/latest/overview.html
