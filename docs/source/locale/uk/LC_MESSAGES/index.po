@@ -1,0 +1,44 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: openprocurement.relocation.core 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-20 17:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/index.rst:9
+msgid "Welcome to openprocurement.relocation.core's documentation!"
+msgstr "Вітаємо на сайті документації по openprocurement.relocation.core!"
+
+#: ../../source/index.rst:11
+msgid ""
+"Please report any problems or suggestions for improvement either via the "
+"`mailing list <http://groups.google.com/group/open-procurement-general>`_ or"
+" the `issue tracker "
+"<https://github.com/openprocurement/openprocurement.relocation.core/issues>`_."
+msgstr ""
+"Будь ласка повідомляйте про всі проблеми та поради покращень або через "
+"`розсилку <http://groups.google.com/group/open-procurement-general>`_, або "
+"через `issue tracker "
+"<https://github.com/openprocurement/openprocurement.relocation.core/issues>`_."
+
+#: ../../source/index.rst:16
+msgid "Contents:"
+msgstr "Зміст:"
+
+#: ../../source/index.rst:26
+msgid "Indices and tables"
+msgstr "Індекси та таблиці"
+
+#: ../../source/index.rst:28
+msgid ":ref:`genindex`"
+msgstr ":ref:`genindex`"
+
+#: ../../source/index.rst:29
+msgid ":ref:`search`"
+msgstr ":ref:`search`"

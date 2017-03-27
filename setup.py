@@ -39,7 +39,7 @@ setup(name='openprocurement.relocation.core',
       author_email='info@quintagroup.com',
       license='Apache License 2.0',
 
-      url='https://github.com/openprocurement/openprocurement.relocation.api',
+      url='https://github.com/openprocurement/openprocurement.relocation.core',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['openprocurement', 'openprocurement.relocation'],
       include_package_data=True,
