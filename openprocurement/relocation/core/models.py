@@ -6,7 +6,10 @@ from schematics.types import StringType
 from schematics.types.serializable import serializable
 from schematics.transforms import whitelist
 from openprocurement.api.models import (
-    Model, plain_role, get_now, schematics_default_role, IsoDateTimeType
+    Model, plain_role, schematics_default_role, IsoDateTimeType
+)
+from openprocurement.api.models import (
+    get_now
 )
 
 

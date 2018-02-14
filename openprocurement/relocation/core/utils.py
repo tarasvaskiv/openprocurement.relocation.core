@@ -5,8 +5,9 @@ from pkg_resources import get_distribution
 from logging import getLogger
 from cornice.resource import resource
 from schematics.exceptions import ModelValidationError
-from openprocurement.api.utils import error_handler, context_unpack
-from openprocurement.api.models import get_now
+from openprocurement.api.utils import (
+    error_handler, context_unpack, get_now
+)
 
 from openprocurement.relocation.core.traversal import factory
 from openprocurement.relocation.core.models import Transfer
