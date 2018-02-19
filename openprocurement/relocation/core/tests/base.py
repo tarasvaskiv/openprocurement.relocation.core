@@ -8,7 +8,6 @@ from uuid import uuid4
 from openprocurement.api.design import sync_design
 from openprocurement.api.tests.base import PrefixedRequestClass
 
-test_transfer_data = {}
 now = datetime.now()
 
 
@@ -19,6 +18,7 @@ class BaseWebTest(unittest.TestCase):
     """
     initial_auth = ('Basic', ('broker', ''))
     relative_to = os.path.dirname(__file__)
+    test_transfer_data = {}
 
     @classmethod
     def setUpClass(cls):
